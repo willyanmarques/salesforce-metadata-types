@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/salesforce-migration/precache-manifest.6b297833396bd73faf14f6ac71c3f408.js"
+  "/salesforce-migration/precache-manifest.ab55cdc4ce4ac12244df11d8d502d67e.js"
 );
 
 self.addEventListener('message', (event) => {
