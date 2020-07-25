@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/salesforce-migration/static/css/main.d8aa4ba3.chunk.css",
-    "main.js": "/salesforce-migration/static/js/main.07e809b9.chunk.js",
-    "main.js.map": "/salesforce-migration/static/js/main.07e809b9.chunk.js.map",
-    "runtime-main.js": "/salesforce-migration/static/js/runtime-main.e0ce5c62.js",
-    "runtime-main.js.map": "/salesforce-migration/static/js/runtime-main.e0ce5c62.js.map",
-    "static/js/2.53857fcb.chunk.js": "/salesforce-migration/static/js/2.53857fcb.chunk.js",
-    "static/js/2.53857fcb.chunk.js.map": "/salesforce-migration/static/js/2.53857fcb.chunk.js.map",
-    "index.html": "/salesforce-migration/index.html",
-    "precache-manifest.ab55cdc4ce4ac12244df11d8d502d67e.js": "/salesforce-migration/precache-manifest.ab55cdc4ce4ac12244df11d8d502d67e.js",
-    "service-worker.js": "/salesforce-migration/service-worker.js",
-    "static/css/main.d8aa4ba3.chunk.css.map": "/salesforce-migration/static/css/main.d8aa4ba3.chunk.css.map",
-    "static/js/2.53857fcb.chunk.js.LICENSE.txt": "/salesforce-migration/static/js/2.53857fcb.chunk.js.LICENSE.txt"
+    "main.css": "/salesforce-metadata-types/static/css/main.31d15710.chunk.css",
+    "main.js": "/salesforce-metadata-types/static/js/main.00a97fb5.chunk.js",
+    "main.js.map": "/salesforce-metadata-types/static/js/main.00a97fb5.chunk.js.map",
+    "runtime-main.js": "/salesforce-metadata-types/static/js/runtime-main.dcfe9d57.js",
+    "runtime-main.js.map": "/salesforce-metadata-types/static/js/runtime-main.dcfe9d57.js.map",
+    "static/js/2.9f041724.chunk.js": "/salesforce-metadata-types/static/js/2.9f041724.chunk.js",
+    "static/js/2.9f041724.chunk.js.map": "/salesforce-metadata-types/static/js/2.9f041724.chunk.js.map",
+    "index.html": "/salesforce-metadata-types/index.html",
+    "precache-manifest.81955d7350267a04d56c9eabd43dbc9a.js": "/salesforce-metadata-types/precache-manifest.81955d7350267a04d56c9eabd43dbc9a.js",
+    "service-worker.js": "/salesforce-metadata-types/service-worker.js",
+    "static/css/main.31d15710.chunk.css.map": "/salesforce-metadata-types/static/css/main.31d15710.chunk.css.map",
+    "static/js/2.9f041724.chunk.js.LICENSE.txt": "/salesforce-metadata-types/static/js/2.9f041724.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/salesforce-metadata-types/static/media/bg.0a4c1647.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0ce5c62.js",
-    "static/js/2.53857fcb.chunk.js",
-    "static/css/main.d8aa4ba3.chunk.css",
-    "static/js/main.07e809b9.chunk.js"
+    "static/js/runtime-main.dcfe9d57.js",
+    "static/js/2.9f041724.chunk.js",
+    "static/css/main.31d15710.chunk.css",
+    "static/js/main.00a97fb5.chunk.js"
   ]
 }
