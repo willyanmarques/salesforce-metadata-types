@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/salesforce-metadata-types/precache-manifest.351fc8a83167061b0b69f6826adda063.js"
+  "/salesforce-metadata-types/precache-manifest.0fce2adb3d43d5fc702ceffb27972466.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03a0a21c82b6cc296dbaa241ef6d84a2",
+    "revision": "e161b76e2e870cdf7198f2e925f966a9",
     "url": "/salesforce-metadata-types/index.html"
   },
   {
-    "revision": "5d493b8261529bc900c8",
-    "url": "/salesforce-metadata-types/static/css/main.acafbb96.chunk.css"
+    "revision": "5801b0c26daa9c334080",
+    "url": "/salesforce-metadata-types/static/css/main.b29a0e90.chunk.css"
   },
   {
     "revision": "77e8f5a9ffbb532a3788",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/salesforce-metadata-types/static/js/2.1fb39791.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d493b8261529bc900c8",
-    "url": "/salesforce-metadata-types/static/js/main.4e7dff05.chunk.js"
+    "revision": "5801b0c26daa9c334080",
+    "url": "/salesforce-metadata-types/static/js/main.79e8efab.chunk.js"
   },
   {
     "revision": "d069a20f54f436157629",
