@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/salesforce-metadata-types/static/css/main.4b3cdf50.chunk.css",
+    "main.css": "/salesforce-metadata-types/static/css/main.c18ae884.chunk.css",
     "main.js": "/salesforce-metadata-types/static/js/main.7fb3fa07.chunk.js",
     "main.js.map": "/salesforce-metadata-types/static/js/main.7fb3fa07.chunk.js.map",
     "runtime-main.js": "/salesforce-metadata-types/static/js/runtime-main.dcfe9d57.js",
@@ -8,16 +8,16 @@
     "static/js/2.1fb39791.chunk.js": "/salesforce-metadata-types/static/js/2.1fb39791.chunk.js",
     "static/js/2.1fb39791.chunk.js.map": "/salesforce-metadata-types/static/js/2.1fb39791.chunk.js.map",
     "index.html": "/salesforce-metadata-types/index.html",
-    "precache-manifest.5ffd32e350fd8867409835d627bc5ab4.js": "/salesforce-metadata-types/precache-manifest.5ffd32e350fd8867409835d627bc5ab4.js",
+    "precache-manifest.e419b6f90bb4e9b1edb9764aeaf59014.js": "/salesforce-metadata-types/precache-manifest.e419b6f90bb4e9b1edb9764aeaf59014.js",
     "service-worker.js": "/salesforce-metadata-types/service-worker.js",
-    "static/css/main.4b3cdf50.chunk.css.map": "/salesforce-metadata-types/static/css/main.4b3cdf50.chunk.css.map",
+    "static/css/main.c18ae884.chunk.css.map": "/salesforce-metadata-types/static/css/main.c18ae884.chunk.css.map",
     "static/js/2.1fb39791.chunk.js.LICENSE.txt": "/salesforce-metadata-types/static/js/2.1fb39791.chunk.js.LICENSE.txt",
     "static/media/App.css": "/salesforce-metadata-types/static/media/bg.0a4c1647.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dcfe9d57.js",
     "static/js/2.1fb39791.chunk.js",
-    "static/css/main.4b3cdf50.chunk.css",
+    "static/css/main.c18ae884.chunk.css",
     "static/js/main.7fb3fa07.chunk.js"
   ]
 }
